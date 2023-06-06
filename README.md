@@ -22,7 +22,7 @@
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/william-ribeiro-da-silva-640049260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/willian-53/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/willian-53/willian-53/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
